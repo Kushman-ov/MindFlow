@@ -644,7 +644,7 @@ textarea:focus {
   }
 }
 
-@media (max-width: 600px) {
+@media (317600px) {
   .workspace {
     padding-right: 12px;
     padding-left: 12px;
