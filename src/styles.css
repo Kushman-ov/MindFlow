@@ -13,7 +13,7 @@
 .chat-form { display: grid; gap: 12px; border-top: 1px solid var(--border, #e6e3dd); padding-top: 16px; }
 .chat-form textarea { width: 100%; box-sizing: border-box; resize: vertical; border: 1px solid var(--border, #d9d6cf); border-radius: 12px; padding: 14px; font: inherit; background: var(--surface, #fff); color: inherit; }
 .chat-form button:disabled { opacity: .55; cursor: not-allowed; }
-max-width: 600px {
+@media (max-width: 600px) {
   .chat-panel { padding: 12px; }
   .chat-message { max-width: 95%; }
   .chat-messages { max-height: 60vh; }
