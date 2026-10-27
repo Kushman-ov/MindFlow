@@ -1,4 +1,4 @@
-.github/workflows/deploy.ymlname: Deploy MindFlow to GitHub Pages
+.github/workflows/deploy.yml name: Deploy MindFlow to GitHub Pages
 
 on:
   push:
